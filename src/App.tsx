@@ -1,4 +1,5 @@
 import './App.css';
+// eslint-disable-next-line 
 import firebase from './FirebaseConfig';
 
 function App() {
